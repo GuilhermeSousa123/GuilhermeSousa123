@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guilherme Dionísio Sousa
 - 👀 I’m interested in: Open to Work;
-- 🌱 I’m currently learning: Html,Css, JavaScript, BackEnd, FrontEnd;
+- 🌱 I’m currently learning:JavaScript, BackEnd, FrontEnd;
 - 💞️ I’m looking to collaborate on: Codes
 - 📫 How to reach me: e-mail- @guilhermesousa1018@gmail.com
 - ⚡ Fun fact: Interessado em aprender📚💻
